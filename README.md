@@ -26,8 +26,6 @@ processing が必要です。
 git clone xxx.git
 ```
 
-`./effect[n]/effect[n].pde` をprocessingで開きます。`[n]`のところは適当な数字です。
-
 ### Minim ライブラリのインストール
 
 もしかしたら`minim`が読み込まれていないかもしれません。<br>
@@ -37,6 +35,7 @@ git clone xxx.git
 
 ### フレームの出力
 
+`./effect[n]/effect[n].pde` をprocessingで開きます。`[n]`のところは適当な数字です。<br>
 コメントついてるパラメータをいい感じにいじります。
 
 **NOTE:** Processingのエディタの場合、日本語が正常に表示されない環境もあります。その場合適当なエディタで編集してください。
