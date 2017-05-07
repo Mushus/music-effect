@@ -6,6 +6,10 @@
 
 SNSの投稿に動画は許可されていても音楽は許可されていないことが多いので、適当にビジュアライザつけて動画として投稿するときに使う。
 
+## イメージ
+
+![effect1](https://raw.github.com/Mushus/music-effect/master/doc/img/effect1.png)
+
 ## 使い方
 
 ### processing の導入
